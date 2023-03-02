@@ -1,4 +1,4 @@
-import { clear } from '@testing-library/user-event/dist/clear';
+// import { clear } from '@testing-library/user-event/dist/clear';
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { clearCart } from '../features/cart/cartSlice';
